@@ -33,7 +33,7 @@ export default function Page() {
                         <p>University of Osaka</p>
                         <p>Faculty of Engineering</p>
                         <p>Science, Department of</p>
-                        <p>Information Science</p>
+                        <p>Precision engineering</p>
                     </section>
                     <section className={'bg-orange-container-a rounded-[3rem] p-12 leading-loose ' +
                         'absolute right-12 top-12'}>
